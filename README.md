@@ -1,1 +1,8 @@
 # cl-web-chromeex
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
